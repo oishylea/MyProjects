@@ -1,3 +1,5 @@
+  <p align="center"><img src="images/header1.jpg" alt="Firebase Main Page" width="90%" /></p>
+
 # My Projects
 Welcome to my repository of past projects!  Each project includes a brief description of the technologies used.
 
@@ -29,5 +31,8 @@ Welcome to my repository of past projects!  Each project includes a brief descri
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
 
 
-
+<br><br>
 Thank you for visiting my past projects repository!
+<br><br>
+  <p align="center"><img src="images/header2.jpg" alt="Firebase Main Page" width="90%" /></p>
+
