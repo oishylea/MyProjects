@@ -10,6 +10,7 @@ Welcome to my repository of past projects!  Each project includes a brief descri
 3. [Python](#python)
 4. [Java](#java)
 5. [Design](#design)
+6. [C++](#cpp)
 
    
 ### Flutter
@@ -29,6 +30,9 @@ Welcome to my repository of past projects!  Each project includes a brief descri
 
 ### Design
 📦 [Parcel Delivery System - Figma](https://github.com/oishylea/ParcelDeliverySystem)<br>
+
+### CPP
+🍔 [Food Ordering System](https://github.com/oishylea/FoodOrderingSystem)<br>
 
 
 <br><br>
