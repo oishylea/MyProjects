@@ -15,6 +15,8 @@ Welcome to my repository of past projects!  Each project includes a brief descri
    
 ### Flutter
 📌 [To Do List](https://github.com/oishylea/Flutter-To-Do-List-App) | [Live Demo](https://todolist-9a14f.web.app/)<br>
+🎮 [Nintendo Switch Games Catalog Clone](https://github.com/oishylea/SwitchSavvy) | [Live Demo](https://switchsavvy-5465c.web.app/)<br>
+
 
 ### Website
 👩🏻‍🏫 [Student Management System](https://github.com/oishylea/StudentManagement)  <br>
